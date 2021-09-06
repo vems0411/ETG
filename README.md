@@ -1,2 +1,0 @@
-# ETG
-this repository 
